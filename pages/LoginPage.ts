@@ -1,5 +1,4 @@
 import { Page } from '@playwright/test';
-import { link } from 'fs';
 
 export class LoginPage {
   readonly page: Page;
