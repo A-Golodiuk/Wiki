@@ -38,8 +38,8 @@ This project automates the process of managing a Wikipedia watchlist using [Play
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/A-Golodiuk/wikipedia-watchlist-playwright.git
-cd wikipedia-watchlist-playwright
+git clone https://github.com/A-Golodiuk/Wiki
+cd Wiki
 ```
 
 ### 2. Install dependencies
