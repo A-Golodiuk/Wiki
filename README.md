@@ -64,10 +64,4 @@ npx playwright show-report
 
 ## ⚠️ Credentials Note
 
-Make sure to update your login credentials inside `tests/wikipedia.spec.ts` before running:
-
-```ts
-const username = 'YOUR_WIKI_USERNAME';
-const password = 'YOUR_WIKI_PASSWORD';
-```
-
+Create credetials.json with your Username and password
